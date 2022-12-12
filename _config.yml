@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+title: MS-720 - Training - Microsoft Teams Voice Engineer
+description: Companion material and resources for the course 'Microsoft Teams Voice Engineer' delivery by Ricardo Cabral. 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md

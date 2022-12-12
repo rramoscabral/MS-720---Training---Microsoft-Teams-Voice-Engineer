@@ -1,5 +1,7 @@
 <a id="top" />
 
+<br/>
+
 # MS-720 - Training - Microsoft Teams Voice Engineer
 
 Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com).
@@ -12,8 +14,8 @@ Microsoft Teams voice engineers plan, design, configure, maintain, and troublesh
 - [Exam certification](./exam.md)
 - [Preparing for the course](./prepare-for-the-course.md)
 - [Hands-on Labs](./hands-on-labs.md)
-- [Samples](./samples.md)
-- [Licensing & Pricing](./pricing.md)
+- [PowerShell](./powershell.md)
+- [Licensing & Pricing](./licensing-pricing.md)
 - [Resources](./resources.md)
 
 
