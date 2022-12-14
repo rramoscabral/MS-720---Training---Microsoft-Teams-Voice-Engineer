@@ -26,9 +26,9 @@
 
 **Cmdlet reference**
 
-* [Microsoft Teams cmdlet reference](https://learn.microsoft.com/en-us/powershell/teams/?view=teams-ps)
+* [Microsoft Teams cmdlet reference](https://learn.microsoft.com/en-us/powershell/module/teams/)
 
-* [Skype for Business cmdlet reference](https://learn.microsoft.com/en-us/powershell/skype/intro?view=skype-ps)
+* [Skype for Business cmdlet reference](https://learn.microsoft.com/en-us/powershell/module/skype/)
 
 
 
