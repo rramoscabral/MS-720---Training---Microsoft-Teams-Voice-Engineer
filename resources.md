@@ -5,8 +5,6 @@
 
 **[Back to main](./README.md)**
 
----git
-
 ## Resources
 
 <br/>
