@@ -19,6 +19,9 @@
 * [Skype for Business Online, Windows PowerShell Module](https://www.microsoft.com/en-us/download/details.aspx?id=39366)
 
 
+* The [Azure Active Directory (MSOnline)](https://learn.microsoft.com/en-us/powershell/azure/active-directory/install-msonlinev1) will begin to [deprecate](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-change-management-simplified/ba-p/2967456) and will be replaced by [Azure Active Directory PowerShell for Graph module](https://learn.microsoft.com/en-us/powershell/azure/active-directory/install-adv2).
+
+
 <br/>
 
 **Cmdlet reference**
