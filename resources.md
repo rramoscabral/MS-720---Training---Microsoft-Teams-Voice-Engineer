@@ -7,6 +7,20 @@
 
 ## Resources
 
+<br>
+
+* [Free Music](#free_music)
+* [Calling Plans for Microsoft Teams](#calling_plans)
+* [Devices certified for Microsoft Teams](#devices_certified)
+* [Interactive Demos](#interactive_demos)
+* [Microsoft Protocol](#microsoft_protocol)
+
+<br/>
+
+---
+
+<a id="free_music" />
+
 <br/>
 
 **Free Music**
@@ -17,6 +31,33 @@
 <br/>
 
 [**Back to top**](#top) | [**Back to main**](README.md)
+
+---
+
+<a id="calling_plans" />
+
+<br/>
+
+
+**Calling Plans for Microsoft Teams**
+
+[Overview Calling Plans for Microsoft Teams documentation](https://learn.microsoft.com/en-us/microsoftteams/calling-plans-for-office-365)
+
+| Calling Plan| Description |
+| --- | --- | 
+|Domestic Calling Plan| Licensed users can call out to numbers located in the country/region where they're assigned in Microsoft 365. Unlimited incoming minutes are included. Outgoing minutes are included based on the license purchased. | 
+| International Calling Plan | Licensed users can call out to numbers located in the country/region where their Microsoft 365 license is assigned to the user based on the user's location, and to international numbers in 196 countries/regions. Unlimited incoming minutes are included. Outgoing minutes are included based on the license purchased.|
+| Pay-As-You-Go Calling Plan | Licensed users can call out to numbers located in the country/region where their Microsoft 365 license is assigned to the user based on the user's location, and to international numbers in 196 countries/regions. Unlimited incoming minutes are included. No outgoing minutes are included. All outgoing calls are charged based on the minutes used, either with Communication Credits or post-usage billing (for new commerce experience calling subscriptions only). Licenses are assigned to users based on their location. |
+
+<br/>
+
+[**Back to top**](#top) | [**Back to main**](README.md)
+
+<br/>
+
+---
+
+<a id="devices_certified" />
 
 <br/>
 
@@ -37,6 +78,11 @@
 
 <br/>
 
+---
+
+<a id="interactive_demos" />
+
+<br/>
 
 **Interactive Demos**
 
@@ -46,6 +92,12 @@
 <br/>
 
 [**Back to top**](#top) | [**Back to main**](README.md)
+
+<br/>
+
+---
+
+<a id="microsoft_protocol" />
 
 <br/>
 
