@@ -9,28 +9,17 @@
 
 <br>
 
-* [Free Music](#free_music)
+
 * [Calling Plans for Microsoft Teams](#calling_plans)
 * [Devices certified for Microsoft Teams](#devices_certified)
+* [Free Music](#free_music)
 * [Interactive Demos](#interactive_demos)
 * [Microsoft Protocol](#microsoft_protocol)
-
-<br/>
-
----
-
-<a id="free_music" />
-
-<br/>
-
-**Free Music**
-
-- [ON HOlD 2 GO free hold music track](https://onhold2go.co.uk/Free_Music_On_Hold.php)
+* [Oficial Microsoft Blogs](#microsoft_blogs)
+* [Teams Roadmap & What’s new](#teams_roadmap)
 
 
 <br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
 
 ---
 
@@ -64,6 +53,7 @@
 
 **Devices certified for Microsoft Teams**
 
+- [What’s new in Teams Calling, Meetings and Devices](https://aka.ms/WhatsNewCMD)
 - [Microsoft Device Showcase](https://aka.ms/TeamsDevices)
 - [Android IP devices certified for Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/devices/teams-ip-phones)
 - [Session Border Controllers certified for Direct Routing](https://learn.microsoft.com/en-us/microsoftteams/direct-routing-border-controllers)
@@ -77,6 +67,24 @@
 [**Back to top**](#top) | [**Back to main**](README.md)
 
 <br/>
+
+---
+
+
+<br/>
+
+<a id="free_music" />
+
+<br/>
+
+**Free Music**
+
+- [ON HOlD 2 GO free hold music track](https://onhold2go.co.uk/Free_Music_On_Hold.php)
+
+
+<br/>
+
+[**Back to top**](#top) | [**Back to main**](README.md)
 
 ---
 
@@ -130,6 +138,48 @@
 <br/>
 
 ---
+
+<a id="microsoft_blogs" />
+
+<br/>
+
+
+**Oficial Microsoft Blog**
+
+- [Microsoft 365 Blog](https://www.microsoft.com/en-us/microsoft-365/blog/)
+- [Microsoft 365 Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog)
+- [Microsoft 365 Developer Blog](https://devblogs.microsoft.com/microsoft365dev/category/microsoft-teams/)
+- [Microsoft Teams Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog)
+- [Microsoft Teams Rooms Tech Community Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog/label-name/Microsoft%20Teams%20Rooms)
+
+<br/>
+
+[**Back to top**](#top) | [**Back to main**](README.md)
+
+<br/>
+
+
+---
+
+<a id="teams_roadmap" />
+
+<br/>
+
+
+**Teams Roadmap & What’s new**
+
+- [What’s new in Teams Calling, Meetings and Devices](https://aka.ms/WhatsNewCMD)
+- [What's new in Hybrid Meetings](https://aka.ms/whatsnewmeetings)
+- [What's new in Teams Calling](https://aka.ms/whatsnewcalling)
+
+<br/>
+
+[**Back to top**](#top) | [**Back to main**](README.md)
+
+<br/>
+
+
+------
 
 **[Back to main](./README.md)**
 
