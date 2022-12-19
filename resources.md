@@ -14,6 +14,7 @@
 * [Devices certified for Microsoft Teams](#devices_certified)
 * [Free Music](#free_music)
 * [Interactive Demos](#interactive_demos)
+* [Microsoft Phone System](#phone_system)
 * [Microsoft Protocol](#microsoft_protocol)
 * [Oficial Microsoft Blogs](#microsoft_blogs)
 * [Teams Roadmap & What’s new](#teams_roadmap)
@@ -58,9 +59,14 @@
 - [Android IP devices certified for Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/devices/teams-ip-phones)
 - [Session Border Controllers certified for Direct Routing](https://learn.microsoft.com/en-us/microsoftteams/direct-routing-border-controllers)
 - [USB audio and video devices certified for Microsoft Teams](https://learn.microsoft.com/en-us/microsoftteams/devices/usb-devices)
-- [Microsoft Teams Rooms requirements](https://learn.microsoft.com/en-us/microsoftteams/rooms/requirements)
-
-
+- Microsoft Teams Rooms
+  * [Microsoft Teams Rooms](https://www.microsoft.com/microsoft-365/microsoft-teams/across-devices/devices/category)
+  * [Microsoft Teams Rooms requirements](https://learn.microsoft.com/en-us/microsoftteams/rooms/requirements)
+  * [Teams Rooms on Windows and Android feature comparison](https://learn.microsoft.com/en-us/microsoftteams/rooms/teams-devices-feature-comparison)
+- Microsoft Teams displays
+    * [Microsoft Teams displays](https://learn.microsoft.com/en-us/microsoftteams/devices/teams-displays)
+    * [Upgrade Teams phones to Teams displays](https://learn.microsoft.com/en-us/microsoftteams/devices/upgrade-phones-to-displays)
+- [Microsoft Teams panels](https://learn.microsoft.com/en-us/microsoftteams/devices/teams-panels)
 
 <br/>
 
@@ -95,6 +101,27 @@
 **Interactive Demos**
 
 - [Transform your meeting rooms with Microsoft Teams Rooms](https://aka.ms/MicrosoftTeamsRoomsDemo)
+
+
+<br/>
+
+[**Back to top**](#top) | [**Back to main**](README.md)
+
+<br/>
+
+---
+
+<a id="phone_system" />
+
+<br/>
+
+
+**Microsoft Phone System**
+
+Phone System is Microsoft's technology for enabling call control and Private Branch Exchange (PBX) capabilities in the Microsoft 365 cloud with Microsoft Teams.
+
+* [What is Phone System](https://learn.microsoft.com/en-us/microsoftteams/what-is-phone-system-in-office-365)
+* [Phone System features](https://learn.microsoft.com/en-us/microsoftteams/here-s-what-you-get-with-phone-system#phone-system-features)
 
 
 <br/>
