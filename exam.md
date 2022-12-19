@@ -40,7 +40,7 @@ The certification consists of only one exam. This exam measures your ability to 
 
 <br/>
 
-You can explore steps to get certified as an Teams Voice Engineer Expert and the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/m365-teams-voice-engineer-expert/)
+You can explore steps to get certified as an Teams Voice Engineer Expert and review the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/m365-teams-voice-engineer-expert/)
 
 The Microsoft Training and Certifications Guide is available [**here**](https://aka.ms/TrainingCertDeck).
 
