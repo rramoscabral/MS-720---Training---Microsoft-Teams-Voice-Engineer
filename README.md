@@ -49,3 +49,30 @@ Microsoft Teams voice engineers plan, design, configure, maintain, and troublesh
 - [SharePoint Online Power User](http://msspopoweruser.rramoscabral.com/)
 
 <br/>
+
+---
+
+<a id="followme" />
+
+<br/>
+
+**You can follow me at:**
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rrcabral">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/rramoscabral">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://www.rramoscabral.com">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>
+
+
+<br/>
+
+---
+
+<br/>
